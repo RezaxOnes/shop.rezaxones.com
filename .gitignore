@@ -1,1 +1,2 @@
-storage/
+# No ignore storage/ 
+.env
